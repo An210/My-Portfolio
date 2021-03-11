@@ -1,0 +1,85 @@
+.navbar {
+    box-shadow: 0 2px 4px #888888;
+}
+
+.intro {
+    padding-top: 1%;
+    background: linear-gradient( #03fcba 60%, #ffffff 40%);
+}
+
+.self-info {
+    padding-top: 8%;
+    padding-bottom: 8%;
+    margin-bottom: 5%;
+    background-color: #ffffff;
+    border-radius: 25px;
+    text-align: center;
+    border: 0.5px solid #e8ede1;
+}
+
+.self-icon {
+    width: 20%;
+    height: 20%;
+}
+
+#portfolio {
+    text-align: center;
+}
+
+.recent-project {
+    height: 200px;
+    object-fit: cover;
+}
+
+.round {
+    border-radius: 5%;
+}
+
+#portfolio {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.contact {
+    background-color: #03fcba;
+    text-align: right;
+    height: 100vh;
+}
+
+.form-control {
+    margin: 1%;
+}
+
+#contact {
+    padding: 2%;
+    text-align: center;
+}
+
+.form-control-inline {
+    min-width: 0;
+    width: auto;
+    display: inline;
+}
+
+.projects {
+    border-radius: 25px;
+    border: 0.5px solid #e8ede1;
+    margin: 1%;
+}
+
+.title-heading{
+    margin: 10%;
+}
+
+#contact-button{
+color:#ffffff;
+margin: 5%;
+border: 3px solid #ffffff;
+}
+
+.jqError{
+    color: red;
+    float: left;
+    padding-left: 6px;
+   
+}
