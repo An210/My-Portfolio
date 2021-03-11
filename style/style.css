@@ -75,11 +75,13 @@
 color:#ffffff;
 margin: 5%;
 border: 3px solid #ffffff;
+clear: both;
 }
 
 .jqError{
     color: red;
-    float: left;
-    padding-left: 6px;
-   
+    text-align: left;
+    margin-left: 6px;
+   width: 100%;
+  
 }
