@@ -29,6 +29,7 @@
 .recent-project {
     height: 200px;
     object-fit: cover;
+    margin-bottom: 20px;
 }
 
 .round {
@@ -67,21 +68,46 @@
     margin: 1%;
 }
 
-.title-heading{
+.title-heading {
     margin: 10%;
 }
 
-#contact-button{
-color:#ffffff;
-margin: 5%;
-border: 3px solid #ffffff;
-clear: both;
+#contact-button {
+    color: #ffffff;
+    margin: 5%;
+    border: 3px solid #ffffff;
 }
 
-.jqError{
+.jqError {
     color: red;
-    text-align: left;
-    margin-left: 6px;
-   width: 100%;
-  
+    float: left;
+    padding-left: 6px;
+}
+
+.portfolio-button {
+    width: 120px;
+    background-color: #03fcba;
+}
+
+.portfolio-button:hover {
+    color: #ffffff;
+}
+
+footer {
+    text-align: center;
+    padding-top: 5%;
+    background-color: #03fcba;
+    height: 50vh;
+}
+
+.footer-link {
+    color: #000000;
+    width: 30px;
+    height: 30px;
+    margin: 3%;
+}
+
+.footer-link:hover {
+    color: #ffffff;
+   
 }
